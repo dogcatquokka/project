@@ -21,8 +21,8 @@ Carina project
 데이터베이스: OracleDB,Mysql<br>
 API: 한국전력공사 api, kakao login api, 다음 주소찾기 api, 네이버 뉴스 api<br>
 서버:Apache Tomcat<br>
-=======
->>>>>>> 856662cc6dc14ca9a0fa7907db8b640c8a68d348
+
+
 
 | 분류                  | 사용 도구                     |
 |-----------------------|------------------------------|
