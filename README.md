@@ -15,18 +15,22 @@ Carina project
 3) 역할 및 팀 기여도
       (팀 기여도 50%)
 4) 기술환경<br>
+사용언어: JAVA, JSP, HTML/CSS/JS, MYSQL, Python<br>
+프레임워크/라이브러리: Spring, Bootstrap, pandas, mybatis,IDE & Code Editors,Eclipse, Pycharm, STS <br>
+데이터베이스: OracleDB,Mysql<br>
+API: 한국전력공사 api, kakao login api, 다음 주소찾기 api, 네이버 뉴스 api<br>
+서버:Apache Tomcat<br>
+
 | 분류                  | 사용 도구                     |
 |-----------------------|------------------------------|
 | **언어**              | JAVA, JSP, HTML/CSS/JS, Python |
-| **프레임워크/라이브러리** | Spring, Bootstrap, pandas, mybatis |
-| **IDE & Code Editors** | Eclipse, Pycharm, STS         |
+| **프레임워크/라이브러리** | Spring, Bootstrap, pandas, mybatis,IDE & Code Editors, Eclipse, Pycharm, STS   |
 | **데이터베이스**      | OracleDB, MySQL               |
 | **API**               | 한국전력공사 API, Kakao Login API, 다음 주소찾기 API, 네이버 뉴스 API |
 | **서버**              | Apache Tomcat                 |
 
 
-
-
+    
 
 # 기능설명
 <h3>1.탄소시각화<h3>
